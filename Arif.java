@@ -3,13 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package omair;
-
-/**
- *
- * @author omair tahir
- */
-class Omair 
+package arif;
+class arif 
 { 
       
     // Decimal to binary conversion  
